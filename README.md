@@ -41,11 +41,11 @@ Reference : Leontitsis A. (2001) – phasespace1.m, University of Ioannina. Base
 
 2. radsel_mai2024.m
 Data-driven radius selection for nonlinear measures (e.g. correlation dimension, KS entropy) using Kernel Density Estimation (KDE).
-Reference : Medrano J., Kheddar A., Lesne A., Ramdani S. (2021). Radius selection using kernel density estimation for the computation of nonlinear measures, Chaos 31(8): 083131. DOI: 10.1063/5.0055797
+Reference : Medrano J., Kheddar A., Lesne A., Ramdani S. (2021). Radius selection using kernel density estimation for the computation of nonlinear measures, Chaos 31(8): 083131. DOI: https://doi.org/10.1063/5.0055797/
 
 3. sampen.m
 Sample Entropy (SampEn) with options for standardization, C-acceleration and SE estimates.
-Reference : Lake D.E., Richman J.S., Moorman J.R., Goldberger A.L. (2002). Sample entropy analysis of neonatal heart rate variability, AJP – Regulatory, Integrative and Comparative Physiology 283(3): R789–R797. DOI: 10.1152/ajpregu.00069.2002
+Reference : Lake D.E., Richman J.S., Moorman J.R., Goldberger A.L. (2002). Sample entropy analysis of neonatal heart rate variability, AJP – Regulatory, Integrative and Comparative Physiology 283(3): R789–R797. DOI: https://doi.org/10.1152/ajpregu.00069.2002
 
 4. ami.m
 Average Mutual Information for univariate/bivariate time series.
