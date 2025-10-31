@@ -49,7 +49,7 @@ Reference : Lake D.E., Richman J.S., Moorman J.R., Goldberger A.L. (2002). Sampl
 
 4. ami.m
 Average Mutual Information for univariate/bivariate time series.
-Reference : Shrestha D.L. (2005). ami.m v1.1.0. Based on Fraser A.M., Swinney H.L. (1986). Independent coordinates for strange attractors from mutual information, Phys. Rev. A 33: 1134–1140.
+Reference : Durga Lal Shrestha (2025). ami and correlation (https://fr.mathworks.com/matlabcentral/fileexchange/7936-ami-and-correlation), MATLAB Central File Exchange. Extrait(e) le octobre 31, 2025. 
 
 5. RQAmac.m → rp_mac64
 MATLAB wrapper for the CRP/rp binary (computes RR, DET, Lmean, Lmax, ENTR, LAM, Vmax).
