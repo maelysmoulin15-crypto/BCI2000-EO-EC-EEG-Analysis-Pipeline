@@ -85,8 +85,8 @@ Key Parameters (defaults)
 Outputs
 - All outputs are plain text (TSV/TXT) with ASCII headers.
 - Time Delay : Figures_Time_delay.pdf (demo + global histograms) & TimeDelay_Medians_perElectrode.tsv
-- RQA (radius-optimal) : Processing_RQA_Radjust_m{m}_td4_lmin{L}.txt
-- RQA (RR-fixed) : Processing_RQA_RRfixed_m{m}_td4_lmin{L}.txt
+- RQA (radius-optimal) : Processing_RQA_Radjust_m{m}_td{td_median}_lmin{L}.txt
+- RQA (RR-fixed) : Processing_RQA_RRfixed_m{m}_td{td_median}_lmin{L}.txt
 - PSD (Welch) : Processing_PSD.txt & PSD/PSD_S%03d_64ch.fig or .png (per subject) & PSD/PSD_mean_64ch.fig or .png (group mean)
 - Sample Entropy : Processing_SampEn.txt
 
