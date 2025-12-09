@@ -93,7 +93,7 @@ Outputs
 If you use this pipeline, please cite:
 
 Code / Methods
-Moulin M. et al. (2025). Recurrence Quantification Analysis of EEG signals: Parameters Selection and Correlations with Spectral Features. (venue TBD)
+Moulin M. et al. (2025). Recurrence Quantification Analysis of EEG signals: Parameters Selection and Comparison with Spectral Features. (venue TBD)
 
 Dataset
 Goldberger A.L. et al. (2000). PhysioNet/PhysioBank BCI2000 EEG Dataset.
